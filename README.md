@@ -1,5 +1,5 @@
 ***
-#### About me
+<div align=center> #### About me </div>
 - I am aiming to become a data scientist
 - I majored in Systems Management Engineering at Sungkyunkwan University
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track
