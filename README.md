@@ -5,11 +5,11 @@
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track
 
 #### AI contest
-- [2022] Dacon, Diagnosis of crop diseases according to changes in agricultural environment, 13%
-- [2021] Dacon, Capsule endoscopy small intestine lesion detection, 16%
-- [2021] Dacon, Crop disease classification, 33%
-- [2021] Dacon, Camera image quality improvement, 28%
-- <img src="https://img.shields.io/badge/2021-blue?style=flat"/> Dacon, Arctic sea ice prediction using satellite imagery, 14%
+- [2022] Dacon, Diagnosis of crop diseases according to changes in agricultural environment, top 13%
+- [2021] Dacon, Capsule endoscopy small intestine lesion detection, top 16%
+- [2021] Dacon, Crop disease classification, top 33%
+- [2021] Dacon, Camera image quality improvement, top 28%
+- [2021] Dacon, Arctic sea ice prediction using satellite imagery, top 14%
 
 #### Tech stack
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor=white"/>
