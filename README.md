@@ -5,10 +5,10 @@
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track
 
 #### AI contest
-- Dacon, Diagnosis of crop diseases according to changes in agricultural environment, 13%
-- Dacon, Capsule endoscopy small intestine lesion detection, 16%
-- Dacon, Crop disease classification, 33%
-- Dacon, Camera image quality improvement, 28%
+- [2022] Dacon, Diagnosis of crop diseases according to changes in agricultural environment, 13%
+- [2021] Dacon, Capsule endoscopy small intestine lesion detection, 16%
+- [2021] Dacon, Crop disease classification, 33%
+- [2021] Dacon, Camera image quality improvement, 28%
 - [2021] Dacon, Arctic sea ice prediction using satellite imagery, 14%
 
 #### Tech stack
