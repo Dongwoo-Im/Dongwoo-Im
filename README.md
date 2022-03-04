@@ -9,7 +9,7 @@
 - Dacon, Capsule endoscopy small intestine lesion detection, 16%
 - Dacon, Crop disease classification, 33%
 - Dacon, Camera image quality improvement, 28%
-- Dacon, Arctic sea ice prediction using satellite imagery, 14%
+- [2021] Dacon, Arctic sea ice prediction using satellite imagery, 14%
 
 #### Tech stack
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-orange?style=flat&logo=Pytorch&logoColor=white"/>
