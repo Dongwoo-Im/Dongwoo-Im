@@ -11,4 +11,7 @@
 - [2021] Dacon, Arctic sea ice prediction using satellite imagery, top 14% <br>
 
 <div align="center"> <h2> Tech stack </h2> </div>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/></a>
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
