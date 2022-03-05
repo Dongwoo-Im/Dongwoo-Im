@@ -16,5 +16,6 @@
   <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>
 </div>
 
-<h3> Contact me </h3>
+<div align="center"> <h3> Contact me </h3>
 <a href="mailto:idw960510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=idw960510@gmail.com"/> </a>
+</div>
