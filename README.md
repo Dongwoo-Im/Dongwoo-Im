@@ -1,4 +1,4 @@
-<h3 align="center"> About me </h3> </div>
+<div align="center"> <h3> About me </h3> </div>
 - I am aiming to become a data scientist <br>
 - I majored in Systems Management Engineering at Sungkyunkwan University <br>
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track <br>
