@@ -17,5 +17,5 @@
 </div>
 
 <div align="center"> <h2> Contact me </h2>
-<a href="mailto:idw960510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=idw960510@gmail.com"/> </a> &nbsp
+<a href="mailto:idw960510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=idw960510@gmail.com"/> </a>
 </div>
