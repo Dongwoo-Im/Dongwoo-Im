@@ -14,5 +14,3 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/></a>
-
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/>
