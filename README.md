@@ -13,5 +13,5 @@
 <div align="center"> <h2> Tech stack </h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Weightsandbiases-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/></a>
 </div>
