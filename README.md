@@ -1,6 +1,6 @@
 <div align="center"> <h2> About me </h2> </div>
 - I am aiming to become a data scientist <br>
-- I majored in Systems Management Engineering at Sungkyunkwan University <br>
+- I major in Systems Management Engineering at Sungkyunkwan University <br>
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track <br>
 
 <div align="center"> <h2> AI contest </h2> </div>
