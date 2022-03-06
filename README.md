@@ -1,5 +1,5 @@
 <h3> About me </h3>
-- I am aiming to become a data scientist <br>
+* I am aiming to become a data scientist <br>
 - I majored in Systems Management Engineering at SKKU <br>
 - I am currently participating in the Boostcamp AI Tech 3rd Computer Vision track <br>
 
