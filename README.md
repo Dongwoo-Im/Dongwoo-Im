@@ -1,7 +1,7 @@
 <h3> About me </h3>
 - I am aiming to become a data scientist <br>
 - I majored in Systems Management Engineering at SKKU <br>
-- I am currently participating in the **Boostcamp AI Tech 3rd** Computer Vision track <br>
+- I am currently participating in the __Boostcamp AI Tech 3rd__ Computer Vision track <br>
 
 <h3> AI contest </h3>
 - [2022] Dacon, Diagnosis of crop diseases according to changes in agricultural environment, top 13% <br>
