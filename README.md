@@ -1,5 +1,5 @@
 ### About me
-- E-mail : cksgus159@naver.com
+- E-mail : idw960510@gmail.com
 - B.S. in `Systems Management Engineering`, `Sungkyunkwan University` <br>
 - I am currently participating in the `Computer Vision track`, `Boostcamp AI Tech 3rd` <br>
 
