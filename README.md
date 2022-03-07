@@ -1,6 +1,5 @@
 ### About me
-- I am aiming to become a `data scientist` <br>
-- I majored in `Systems Management Engineering` at `Sungkyunkwan University` <br>
+- B.A in `Systems Management Engineering` `Sungkyunkwan University` <br>
 - I am currently participating in the `Boostcamp AI Tech 3rd` `Computer Vision track` <br>
 
 ### AI contest
