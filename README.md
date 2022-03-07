@@ -1,7 +1,7 @@
 ### About me
-- E-mail:cksgus159@naver.com
-- B.S. in `Systems Management Engineering` `Sungkyunkwan University` <br>
-- I am currently participating in the `Boostcamp AI Tech 3rd` `Computer Vision track` <br>
+- E-mail : cksgus159@naver.com
+- B.S. in `Systems Management Engineering`, `Sungkyunkwan University` <br>
+- I am currently participating in the `Computer Vision track`, `Boostcamp AI Tech 3rd` <br>
 
 ### AI contest
 - `2022` `Dacon` Diagnosis of crop diseases according to changes in agricultural environment `top 13%` <br>
