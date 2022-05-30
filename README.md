@@ -1,7 +1,7 @@
 ### About Me
 - E-mail : idw960510@gmail.com
 - B.S. in `Systems Management Engineering`, `Sungkyunkwan University` <br>
-- I am currently participating in the `Boostcamp AI Tech 3rd` `Computer Vision track` <br>
+- I am currently participating in the `Naver Boostcamp AI Tech 3rd` `Computer Vision track` <br>
 
 ### Public AI Contest
 - `2022` `Dacon` `Image Classification` Diagnosis of crop diseases according to changes in agricultural environment `top 13%` <br>
