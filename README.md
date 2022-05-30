@@ -11,10 +11,10 @@
 - `2021` `Dacon` `Pixel Regression` Arctic sea ice prediction using satellite imagery `top 14%` <br>
 
 ### Private AI Contest
-- `2022` `Boostcamp` `Semantic Segmentation` Semantic segmentation for classification of recycled items `2/19` <br>
-- `2022` `Boostcamp` `Text Dection` A letter detection `6/19` <br>
-- `2022` `Boostcamp` `Object Detection` Object detection for classification of recycled items `9/19` <br>
-- `2022` `Boostcamp` `Image Classification` Mask wearing status classification `34/48` <br>
+- `2022` `Naver Boostcamp AI Tech` `Semantic Segmentation` Semantic segmentation for classification of recycled items `2/19` <br>
+- `2022` `Naver Boostcamp AI Tech` `Text Dection` A letter detection `6/19` <br>
+- `2022` `Naver Boostcamp AI Tech` `Object Detection` Object detection for classification of recycled items `9/19` <br>
+- `2022` `Naver Boostcamp AI Tech` `Image Classification` Mask wearing status classification `34/48` <br>
 
 <div align="center"> <h3> Tech stack </h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>
