@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>
-</div>
 
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongwoo-Im&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
