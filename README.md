@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>
 </p>
 
-- E-mail : idw960510@gmail.com
 - B.S. in `Systems Management Engineering`, `Sungkyunkwan University` <br>
 - I am currently participating in the `Naver Boostcamp AI Tech 3rd` `Computer Vision track` <br>
 
