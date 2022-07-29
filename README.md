@@ -16,6 +16,7 @@
 - `2021` `Dacon` `Pixel Regression` Arctic sea ice prediction using satellite imagery `top 14%` <br>
 
 ### Private AI Contest
+- `2022` `Naver CLOVA AI RUSH` `Image Classification` Face Age Prediction `13/37` <br>
 - `2022` `Naver Boostcamp AI Tech` `Semantic Segmentation` Semantic segmentation for classification of recycled items `2/19` <br>
 - `2022` `Naver Boostcamp AI Tech` `Text Dection` A letter detection `6/19` <br>
 - `2022` `Naver Boostcamp AI Tech` `Object Detection` Object detection for classification of recycled items `9/19` <br>
