@@ -13,7 +13,7 @@
 
 - Public
 
-    - `2022` `Dacon` `Super Resolution` Yangjae Herb Artificial Intelligence Open Source Competition `top 12%` <br>
+    - `2022` `Dacon` `Super Resolution` Yangjae herb AI open source competition `top 12%` <br>
     - `2022` `Dacon` `Image Classification` Diagnosis of crop diseases according to changes in agricultural environment `top 13%` <br>
     - `2021` `Dacon` `Object Detection` Capsule endoscopy small intestine lesion detection `top 15%` <br>
     - `2021` `Dacon` `Image Classification` Crop disease classification `top 32%` <br>
