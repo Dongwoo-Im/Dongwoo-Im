@@ -23,8 +23,8 @@
 
 - Private
 
-    - `2022` `Naver CLOVA AI RUSH 2022` `Image Classification` Review photo score classificiation `3/15` <br>
-    - `2022` `Naver CLOVA AI RUSH 2022` `Image Classification` Face age prediction `13/37` <br>
+    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Review photo score classificiation `3/15` <br>
+    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Face age prediction `13/37` <br>
     - `2022` `Naver Boostcamp AI Tech 3rd` `Semantic Segmentation` Semantic segmentation for classification of recycled items `2/19` <br>
     - `2022` `Naver Boostcamp AI Tech 3rd` `Text Detection` A letter detection `6/19` <br>
     - `2022` `Naver Boostcamp AI Tech 3rd` `Object Detection` Object detection for classification of recycled items `9/19` <br>
