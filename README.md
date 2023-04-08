@@ -29,7 +29,7 @@
     - `2021` `Dacon` `Object Detection` Endoscopic Lesion Detection `top 15%` <br>
     - `2021` `Dacon` `Image Classification` Plant Disease Classification `top 32%` <br>
     - `2021` `Dacon` `Super Resolution (Image Deblurring)` Camera Image Quality Improvement `top 27%` <br>
-    - `2021` `Dacon` `Image Regression` Arctic Sea Ice Prediction using Satellite Image `top 13%` <br>
+    - `2021` `Dacon` `Pixel-wise Regression` Arctic Sea Ice Prediction using Satellite Image `top 13%` <br>
 
 - Private
 
