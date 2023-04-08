@@ -25,7 +25,7 @@
     - `2022` `Dacon` `Image & Tabular Classification` [Breast Cancer Metastasis Prediction](https://github.com/DeepVisionStudy/dacon_breast_cancer) `top 11%` <br>
     - `2022` `Dacon` `Image & Text Classification` [Tourism PoI Category Classifiaction](https://github.com/DeepVisionStudy/dacon_tourism) `top 7%` <br>
     - `2022` `Dacon` `Super Resolution (x4 Upscaling)` [Yangjae Herb AI Open Source Competition](https://github.com/DeepVisionStudy/dacon_SR) `top 13%` <br>
-    - `2022` `Dacon` `Image & Tabular Classification` Plant Disease Classification Considering Environmental Information `top 13%` <br>
+    - `2022` `Dacon` `Image & Tabular Classification` Plant Disease Classification considering Environmental Information `top 13%` <br>
     - `2021` `Dacon` `Object Detection` Endoscopic Lesion Detection `top 15%` <br>
     - `2021` `Dacon` `Image Classification` Plant Disease Classification `top 32%` <br>
     - `2021` `Dacon` `Super Resolution (Image Deblurring)` Camera Image Quality Improvement `top 27%` <br>
