@@ -15,8 +15,8 @@
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd, Computer Vision track
 
 ### Awards and Honors
-- `CLOVA AI RUSH 2022` Review Image Classificiation `3rd Place Award`
-- `Boostcamp AI Tech 3rd` Final Project `Impressive Project Top3`
+- `2022` `CLOVA AI RUSH 2022` Review Image Classificiation `3rd Place Award`
+- `2022` `Boostcamp AI Tech 3rd` [Final Project](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
 
 ### AI Contest
 
@@ -33,7 +33,7 @@
 
 - Private
 
-    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Review Image Classificiation `3/15` <br>
+    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Review Image Classificiation `3/15` `Award` <br>
     - `2022` `CLOVA AI RUSH 2022` `Image Classification` Face Age Classification `13/37` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Semantic Segmentation` [Recycle Trash Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Text Detection` [OCR Text Detection](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) `6/19` <br>
