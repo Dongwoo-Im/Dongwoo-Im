@@ -30,7 +30,7 @@
 
     - `2022` `CLOVA AI RUSH 2022` `Image Classification` Review photo score classificiation `3/15` <br>
     - `2022` `CLOVA AI RUSH 2022` `Image Classification` Face age prediction `13/37` <br>
-    - `2022` `Naver Boostcamp AI Tech 3rd` `Semantic Segmentation` [Semantic segmentation for classification of recycled items](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` [repo](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) <br>
-    - `2022` `Naver Boostcamp AI Tech 3rd` `Text Detection` [A letter detection](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) `6/19` [repo](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) <br>
-    - `2022` `Naver Boostcamp AI Tech 3rd` `Object Detection` [Object detection for classification of recycled items](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-17) `9/19` [repo](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-17) <br>
-    - `2022` `Naver Boostcamp AI Tech 3rd` `Image Classification` Mask wearing status classification `34/48` <br>
+    - `2022` `Boostcamp AI Tech 3rd` `Semantic Segmentation` [Semantic segmentation for classification of recycled items](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` [repo](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) <br>
+    - `2022` `Boostcamp AI Tech 3rd` `Text Detection` [A letter detection](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) `6/19` [repo](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) <br>
+    - `2022` `Boostcamp AI Tech 3rd` `Object Detection` [Object detection for classification of recycled items](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-17) `9/19` [repo](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-17) <br>
+    - `2022` `Boostcamp AI Tech 3rd` `Image Classification` Mask wearing status classification `34/48` <br>
