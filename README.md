@@ -33,8 +33,8 @@
 
 - Private
 
-    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Review Image Score Classificiation `3/15` `Award` <br>
-    - `2022` `CLOVA AI RUSH 2022` `Image Classification` Face Age Group Classification `13/37` <br>
+    - `2022` `CLOVA AI RUSH 2022 (Round 2)` `Image Classification` Review Image Score Classificiation `3/15` `Award` <br>
+    - `2022` `CLOVA AI RUSH 2022 (Round 1)` `Image Classification` Face Age Group Classification `13/37` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Semantic Segmentation` [Recycle Trash Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Text Detection` [OCR Text Detection](https://github.com/boostcampaitech3/level2-data-annotation_cv-level2-cv-17) `6/19` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Object Detection` [Recycle Trash Detection](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-17) `9/19` <br>
