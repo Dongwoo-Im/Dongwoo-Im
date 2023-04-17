@@ -9,10 +9,12 @@
 - B.S. in `Systems Management Engineering`, `Sungkyunkwan University`
 - interested in `Computer Vision` and `Generative Model`
 
+    - especially `Self-supervised Learning`, `Efficient Fine-tuning`, `Multi-modal Learning`, `Diffusion Model`
+
 ### Experiences
 - 2022.11 ~ 2023.02 : ML Engineer Intern at Naver Glace CIC
-- 2022.07 ~ 2022.08 : CLOVA AI RUSH 2022
-- 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd, Computer Vision track
+- 2022.07 ~ 2022.08 : CLOVA AI RUSH 2022, Naver
+- 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd - Computer Vision track, Naver Connect
 
 ### Awards and Honors
 - `2022` `CLOVA AI RUSH 2022` Review Image Score Classificiation `3rd Place Award`
