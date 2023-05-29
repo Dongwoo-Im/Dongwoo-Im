@@ -6,7 +6,6 @@
 </p>
 
 ### About Me
-- B.S. in `Systems Management Engineering`, `Sungkyunkwan University`
 - interested in `Computer Vision` and `Generative Model`
 
     - especially `Self-supervised Learning`, `Efficient Fine-tuning`, `Multi-modal Learning`, `Diffusion Model`
