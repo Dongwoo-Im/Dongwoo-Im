@@ -6,11 +6,13 @@
 </p>
 
 ### About Me
+- B.S. in `Systems Management Engineering`, `Sungkyunkwan University`
 - interested in `Computer Vision` and `Generative Model`
 
     - especially `Self-supervised Learning`, `Efficient Fine-tuning`, `Multi-modal Learning`, `Diffusion Model`
 
 ### Experiences
+- 2023.07 ~ 2023.08 : AI Competition 2023, Hyundai Motor
 - 2022.11 ~ 2023.02 : ML Engineer Intern, Naver Glace CIC
 - 2022.07 ~ 2022.08 : CLOVA AI RUSH 2022, Naver
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd - Computer Vision track, Naver Connect
