@@ -1,9 +1,7 @@
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Lightning-792ee5?style=flat-plastic&logo=pytorchlightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white)](https://www.python.org/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white)](https://github.com/pytorch/pytorch)
+[![Lightning](https://img.shields.io/badge/-Lightning-792ee5?style=flat-plastic&logo=pytorchlightning&logoColor=white)](https://github.com/Lightning-AI/lightning)
+[![Wandb](https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white)](https://github.com/wandb/wandb)
 
 ### About Me
 - B.S. in `Systems Management Engineering`, `Sungkyunkwan University`
@@ -18,6 +16,7 @@
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd - Computer Vision track, Naver Connect
 
 ### Awards and Honors
+- `2023` `Elice AI Edu Hackathon` Rimi `3rd Place Award`
 - `2022` `CLOVA AI RUSH 2022` Review Image Score Classificiation `3rd Place Award`
 - `2022` `Boostcamp AI Tech 3rd` [Final Project](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
 
