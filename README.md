@@ -10,12 +10,14 @@
     - especially `Self-supervised Learning`, `Efficient Fine-tuning`, `Multi-modal Learning`, `Diffusion Model`
 
 ### Experiences
+- 2023.08 ~ 2023.09 : Fashion-how Season4, ETRI
 - 2023.07 ~ 2023.08 : AI Competition 2023, Hyundai Motor
 - 2022.11 ~ 2023.02 : ML Engineer Intern, Naver Glace CIC
 - 2022.07 ~ 2022.08 : CLOVA AI RUSH 2022, Naver
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd - Computer Vision track, Naver Connect
 
 ### Awards and Honors
+- `2023` `ETRI Fashion-how Season4` `4th Place Award`
 - `2023` `Elice AI Edu Hackathon` Rimi `3rd Place Award`
 - `2022` `CLOVA AI RUSH 2022` Review Image Score Classificiation `3rd Place Award`
 - `2022` `Boostcamp AI Tech 3rd` [Final Project](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
@@ -36,6 +38,9 @@
 
 - Private
 
+    - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Attribute Multi-Label Classification `2/19`
+    - `2023` `ETRI Fashion-how Season4 (Sub-task2)` `Image Classification` Color Imbalanced Classification `2/16`
+    - `2023` `ETRI Fashion-how Season4 (Sub-task4)` `Reranking` Reranking Coordi Set (with zero-shot item) Using Dialog `4/12`
     - `2022` `CLOVA AI RUSH 2022 (Round 2)` `Image Classification` Review Image Score Classificiation `3/15` `Award` <br>
     - `2022` `CLOVA AI RUSH 2022 (Round 1)` `Image Classification` Face Age Group Classification `13/37` <br>
     - `2022` `Boostcamp AI Tech 3rd` `Semantic Segmentation` [Recycle Trash Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` <br>
