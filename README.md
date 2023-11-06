@@ -20,9 +20,9 @@
 ### Awards and Honors
 - `2023` `ETRI` `Fashion-how Season4` `Encouragement Award` `4th Place`
 - `2023` `Hyundai Motor` `AI Competition 2023` `Excellent Award`
-- `2023` `Elice` `AI Edu Hackathon` Development of educational products based on generative AI `Excellent Award` `3rd Place`
+- `2023` `Elice` `AI Edu Hackathon` Development of Educational Products based on Generative AI `Excellent Award` `3rd Place`
 - `2022` `Naver` `CLOVA AI RUSH 2022` Review Image Score Classificiation `Award` `3rd Place`
-- `2022` `Naver Connect` `Boostcamp AI Tech 3rd` [A clear picture without fine dust](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
+- `2022` `Naver Connect` `Boostcamp AI Tech 3rd` [A Clear Picture without Fine Dust](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
 
 ### AI Contest
 
