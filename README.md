@@ -17,10 +17,11 @@
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd - Computer Vision track, Naver Connect
 
 ### Awards and Honors
-- `2023` `ETRI Fashion-how Season4` `4th Place Award`
-- `2023` `Elice AI Edu Hackathon` Rimi `3rd Place Award`
-- `2022` `CLOVA AI RUSH 2022` Review Image Score Classificiation `3rd Place Award`
-- `2022` `Boostcamp AI Tech 3rd` [Final Project](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
+- `2023` `ETRI` `Fashion-how Season4` `4th Place Award`
+- `2023` `Hyundai Motor` `AI Competition 2023` `Award`
+- `2023` `Elice` `AI Edu Hackathon` Rimi `3rd Place Award`
+- `2022` `Naver` `CLOVA AI RUSH 2022` Review Image Score Classificiation `3rd Place Award`
+- `2022` `Naver Connect` `Boostcamp AI Tech 3rd` [Final Project](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
 
 ### AI Contest
 
