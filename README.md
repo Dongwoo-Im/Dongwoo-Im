@@ -20,7 +20,6 @@
 ### Awards and Honors
 - `2023` `ETRI` `Fashion-how Season4` `Encouragement Award` `4th Place`
 - `2023` `Elice` `AI Edu Hackathon` Development of Educational Products based on Generative AI `Excellent Award` `3rd Place`
-- `2023` `Hyundai Motor` `AI Competition 2023` `Excellent Award`
 - `2022` `Naver` `CLOVA AI RUSH 2022` Review Image Score Classificiation `Award` `3rd Place`
 - `2022` `Naver Connect` `Boostcamp AI Tech 3rd` [A Clear Picture without Fine Dust](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
 
@@ -28,7 +27,8 @@
 
 - Public
 
-    - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `top 5%`
+    - `2023` `K-water AI Competition 3rd` `Object Detection` Fish Species Identification and Classification `5/69`
+    - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `5/102`
     - `2022` `Dacon` `Image & Tabular Classification` [Breast Cancer Metastasis Prediction](https://github.com/DeepVisionStudy/dacon_breast_cancer) `top 11%`
     - `2022` `Dacon` `Image & Text Classification` [Tourism PoI Category Classifiaction](https://github.com/DeepVisionStudy/dacon_tourism) `top 7%`
     - `2022` `Dacon` `Super Resolution (x4 Upscaling)` [Open Source Competition (AI YANGJAE HUB)](https://github.com/DeepVisionStudy/dacon_SR) `top 13%`
