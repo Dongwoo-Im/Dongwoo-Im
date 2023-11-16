@@ -41,7 +41,7 @@
 - Others
 
     - `2023` `K-water AI Competition 3rd` `Object Detection` Fish Species Identification and Classification `5/69`
-    - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Attribute Multi-label Classification `2/19`
+    - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Multi-label Classification `2/19`
     - `2023` `ETRI Fashion-how Season4 (Sub-task2)` `Image Classification` Fashion Image Color Imbalanced Classification `2/16`
     - `2023` `ETRI Fashion-how Season4 (Sub-task4)` `Reranking` Reranking Coordi Set (with zero-shot item) Using Dialog `4/12`
     - `2022` `CLOVA AI RUSH 2022 (Round 2)` `Image Classification` Review Image Score Classificiation `3/15`
