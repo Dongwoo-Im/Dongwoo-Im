@@ -5,7 +5,7 @@
 
 ### About Me
 - B.S. in `Systems Management Engineering` (= Industrial Engineering), `Sungkyunkwan University`
-- interests : Multi-modal Masked Modeling, Self-supervised Diffusion Model, Efficient Training & Inference
+- interests : Multi-modal Masked Modeling, Diffusion Model with Representation Learning, Efficient Training & Inference
 
 ### Experiences
 - 2024.01 ~ 2024.01 : Medical Image AI Challenge 2023 (Pathology data), SNUH
