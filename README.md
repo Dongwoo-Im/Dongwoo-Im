@@ -4,10 +4,8 @@
 [![Wandb](https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white)](https://github.com/wandb/wandb)
 
 ### About Me
-- B.S. in `Systems Management Engineering`, `Sungkyunkwan University`
-- interested in `Computer Vision` and `Generative Model`
-
-    - especially `Self-supervised Learning`, `Efficient Training & Inference`, `Multi-modal`, `Diffusion`
+- B.S. in `Systems Management Engineering` (= Industrial Engineering), `Sungkyunkwan University`
+- interests : Multi-modal Masked Modeling, Self-supervised Diffusion Model, Efficient Training & Inference
 
 ### Experiences
 - 2024.01 ~ 2024.01 : Medical Image AI Challenge 2023 (Pathology data), SNUH
