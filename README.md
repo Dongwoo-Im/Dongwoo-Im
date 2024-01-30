@@ -10,6 +10,7 @@
     - especially `Self-supervised Learning`, `Efficient Training & Inference`, `Multi-modal`, `Diffusion`
 
 ### Experiences
+- 2024.01 ~ 2024.01 : Medical Image AI Challenge 2023 (Pathology data), SNUH
 - 2023.08 ~ 2023.09 : Fashion-how Season4, ETRI
 - 2023.08 ~ 2023.08 : AI Edu Hackathon, Elice
 - 2023.07 ~ 2023.08 : AI Competition 2023, Hyundai Motor
