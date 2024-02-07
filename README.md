@@ -17,6 +17,7 @@
 - 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd, Naver Connect
 
 ### Awards and Honors
+- `2024` `SNUH` `Medical Image AI Challenge 2023 (Pathology data)` `3rd Place`
 - `2023` `Hyundai Motor` `AI Competition 2023` `Excellent Award`
 - `2023` `ETRI` `Fashion-how Season4` `Encouragement Award (4th Place)`
 - `2023` `Elice` `AI Edu Hackathon` Development of Educational Products based on Generative AI `Excellent Award (3rd Place)`
