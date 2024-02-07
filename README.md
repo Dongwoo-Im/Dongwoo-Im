@@ -18,7 +18,7 @@
 
 ### Awards and Honors
 - `2024` `SNUH` `Medical Image AI Challenge 2023 (Pathology data)` `3rd Place`
-- `2023` `Hyundai Motor` `AI Competition 2023` `Excellent Award`
+- `2023` `Hyundai Motor` `AI Competition 2023` `Excellent Award (2nd ~ 4th Place)`
 - `2023` `ETRI` `Fashion-how Season4` `Encouragement Award (4th Place)`
 - `2023` `Elice` `AI Edu Hackathon` Development of Educational Products based on Generative AI `Excellent Award (3rd Place)`
 - `2022` `Naver` `CLOVA AI RUSH 2022` Review Image Score Classificiation `Award (3rd Place)`
@@ -37,6 +37,7 @@
 
 - Others
 
+    - `2024` `SNUH Medical Image AI Challenge 2023 (Pathology data)` `Image & Tabular Classification` Melanoma Recurrence Prediction `3/12`
     - `2023` `K-water AI Competition 3rd` `Object Detection` Fish Detection `5/69`
     - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Multi-label Classification `2/19`
     - `2023` `ETRI Fashion-how Season4 (Sub-task2)` `Image Classification` Fashion Image Color Imbalanced Classification `2/16`
