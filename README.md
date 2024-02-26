@@ -37,6 +37,7 @@
 
 - Others
 
+    - `2024` `LG Aimers` B2B Sales Opportunity Forcasting `top 2%`
     - `2024` `SNUH Medical Image AI Challenge 2023` `Image & Tabular Regression` Melanoma Recurrence Prediction `3/12`
     - `2023` `K-water AI Competition 3rd` `Object Detection` Fish Detection `5/69`
     - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Multi-label Classification `2/19`
