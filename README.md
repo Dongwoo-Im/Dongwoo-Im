@@ -9,7 +9,7 @@
 
 ### Experiences
 - 2024.01 ~ 2024.01 : Medical Image AI Challenge 2023 (Pathology data), SNUH
-- 2023.08 ~ 2023.09 : Fashion-how Season4, ETRI
+- 2023.08 ~ 2023.09 : Fashion-how Season 4, ETRI
 - 2023.08 ~ 2023.08 : AI Edu Hackathon, Elice
 - 2023.07 ~ 2023.08 : AI Competition 2023, Hyundai Motor
 - 2022.11 ~ 2023.02 : ML Engineer Intern, Naver Glace CIC
@@ -19,7 +19,7 @@
 ### Awards and Honors
 - `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `3rd Place`
 - `2023` `Hyundai Motor` [AI Competition 2023](https://www.apply.hyundai-ai-competition.com/) `Excellent Award (2nd ~ 4th Place)`
-- `2023` `ETRI` [Fashion-how Season4](https://fashion-how.org/ETRI23/) `Encouragement Award (4th Place)`
+- `2023` `ETRI` [Fashion-how Season 4](https://fashion-how.org/ETRI23/) `Encouragement Award (4th Place)`
 - `2023` `Elice` [AI Edu Hackathon](https://ai-eduhackathon.elice.io/explore) Development of Educational Products based on Generative AI `Excellent Award (3rd Place)`
 - `2022` `Naver` [CLOVA AI RUSH 2022](https://campaign.naver.com/clova_airush/) Review Image Score Classificiation `Award (3rd Place)`
 - `2022` `Naver Connect` [Boostcamp AI Tech 3rd](https://boostcamp.connect.or.kr/program_ai.html) [A Clear Picture without Fine Dust](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
@@ -28,7 +28,8 @@
 
 - Dacon / Kaggle
 
-    - `2024` `Dacon` `Jigsaw puzzle` Solving Jigsaw puzzle `top 3%`
+    - `2024` `Dacon` `Domain Specific LLM` Handling Questions and Answers about Plastered: Hansol Deco Season 2 AI Competition `top 3%`
+    - `2024` `Dacon` `Jigsaw Puzzle` Puzzle Image AI Competition `top 3%`
     - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `5/102`
     - `2022` `Dacon` `Image & Tabular Classification` [Breast Cancer Metastasis Prediction](https://github.com/DeepVisionStudy/dacon_breast_cancer) `top 11%`
     - `2022` `Dacon` `Image & Text Classification` [Tourism PoI Category Classifiaction](https://github.com/DeepVisionStudy/dacon_tourism) `top 7%`
@@ -40,9 +41,9 @@
     - `2024` `LG Aimers` B2B Sales Opportunity Forcasting `top 2%`
     - `2024` `SNUH Medical Image AI Challenge 2023` `Image & Tabular Regression` Melanoma Recurrence Prediction `3/12`
     - `2023` `K-water AI Competition 3rd` `Object Detection` Fish Detection `5/69`
-    - `2023` `ETRI Fashion-how Season4 (Sub-task1)` `Image Classification` Fashion Image Multi-label Classification `2/19`
-    - `2023` `ETRI Fashion-how Season4 (Sub-task2)` `Image Classification` Fashion Image Color Imbalanced Classification `2/16`
-    - `2023` `ETRI Fashion-how Season4 (Sub-task4)` `Reranking` Reranking Coordi Set (with zero-shot item) Using Dialog `4/12`
+    - `2023` `ETRI Fashion-how Season 4 (Sub-task1)` `Image Classification` Fashion Image Multi-label Classification `2/19`
+    - `2023` `ETRI Fashion-how Season 4 (Sub-task2)` `Image Classification` Fashion Image Color Imbalanced Classification `2/16`
+    - `2023` `ETRI Fashion-how Season 4 (Sub-task4)` `Reranking` Reranking Coordi Set (with zero-shot item) Using Dialog `4/12`
     - `2022` `CLOVA AI RUSH 2022 (Round 2)` `Image Classification` Review Image Score Classificiation `3/15`
     - `2022` `CLOVA AI RUSH 2022 (Round 1)` `Image Classification` Face Age Group Classification `13/37`
     - `2022` `Boostcamp AI Tech 3rd` `Semantic Segmentation` [Recycle Trash Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-17) `2/19` <br>
