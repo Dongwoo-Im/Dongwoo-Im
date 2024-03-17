@@ -32,8 +32,8 @@
 
 - Dacon / Kaggle
 
-    - `2024` `Dacon` `Domain Specific LLM` Handling Questions and Answers about Plastered `top 3%`
-    - `2024` `Dacon` `Jigsaw Puzzle` Puzzle Image AI Competition `top 3%`
+    - `2024` `Dacon` `Domain Specific QA` Handling Questions and Answers about Plastered `top 3%`
+    - `2024` `Dacon` `Solving Jigsaw Puzzle` Puzzle Image AI Competition `top 3%`
     - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `5/102`
     - `2022` `Dacon` `Image & Tabular Classification` [Breast Cancer Metastasis Prediction](https://github.com/DeepVisionStudy/dacon_breast_cancer) `top 11%`
     - `2022` `Dacon` `Image & Text Classification` [Tourism PoI Category Classifiaction](https://github.com/DeepVisionStudy/dacon_tourism) `top 7%`
