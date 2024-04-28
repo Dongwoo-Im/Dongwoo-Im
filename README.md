@@ -8,7 +8,7 @@
 - interests : Multi-modal Masked Modeling, Diffusion Model with Representation Learning, Efficient Training & Inference
 
 ### Work Experiences
-- 2024.02 ~ : Deep Learning Engineer Intern, CLIKA
+- 2024.02 ~ 2024.04 : Deep Learning Engineer Intern, CLIKA
 - 2022.11 ~ 2023.02 : Machine Learning Engineer Intern, Naver Glace CIC
 
 ### Experiences
