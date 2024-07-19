@@ -5,20 +5,6 @@
 
 ### About Me
 - B.S. in `Systems Management Engineering` (= Industrial Engineering), `Sungkyunkwan University`
-- interests : Multi-modal Masked Modeling, Diffusion Model with Representation Learning, Efficient Training & Inference
-
-### Work Experiences
-- 2024.02 ~ 2024.04 : Deep Learning Engineer Intern, CLIKA
-- 2022.11 ~ 2023.02 : Machine Learning Engineer Intern, Naver Glace CIC
-
-### Experiences
-- 2024.02 ~ 2024.02 : LG Aimers 4th, LG AI Research
-- 2024.01 ~ 2024.01 : Medical Image AI Challenge 2023 (Pathology data), SNUH
-- 2023.08 ~ 2023.09 : Fashion-how Season 4, ETRI
-- 2023.08 ~ 2023.08 : AI Edu Hackathon, Elice
-- 2023.07 ~ 2023.08 : AI Competition 2023, Hyundai Motor
-- 2022.07 ~ 2022.08 : CLOVA AI RUSH 2022, Naver
-- 2022.01 ~ 2022.06 : Boostcamp AI Tech 3rd, Naver Connect
 
 ### Awards and Honors
 - `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `3rd Place`
@@ -32,6 +18,7 @@
 
 - Dacon / Kaggle
 
+    - `2024` `Kaggle` `NeurIPS 2024 - Predict New Medicines with BELKA` `top 5%` `Silver Medal`
     - `2024` `Dacon` `Domain Specific QA` Handling Questions and Answers about Plastered `top 3%`
     - `2024` `Dacon` `Solving Jigsaw Puzzle` Puzzle Image AI Competition `top 3%`
     - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `5/102`
