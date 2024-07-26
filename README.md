@@ -16,7 +16,7 @@
 
 ### AI Contest
 
-- Dacon / Kaggle
+- Dacon Gold / Kaggle Expert
 
     - `2024` `Kaggle` USPTO - Explainable AI for Patent Professionals `top 13%` `Bronze Medal`
     - `2024` `Kaggle` NeurIPS 2024 - Predict New Medicines with BELKA `top 5%` `Silver Medal`
