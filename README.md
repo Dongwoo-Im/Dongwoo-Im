@@ -18,7 +18,8 @@
 
 - Dacon / Kaggle
 
-    - `2024` `Kaggle` `NeurIPS 2024 - Predict New Medicines with BELKA` `top 5%` `Silver Medal`
+    - `2024` `Kaggle` USPTO - Explainable AI for Patent Professionals `top 13%` `Bronze Medal`
+    - `2024` `Kaggle` NeurIPS 2024 - Predict New Medicines with BELKA `top 5%` `Silver Medal`
     - `2024` `Dacon` `Domain Specific QA` Handling Questions and Answers about Plastered `top 3%`
     - `2024` `Dacon` `Solving Jigsaw Puzzle` Puzzle Image AI Competition `top 3%`
     - `2023` `Dacon` `Visual Question Answering` [Image Question Answering](https://github.com/Dongwoo-Im/dacon_vqa) `5/102`
