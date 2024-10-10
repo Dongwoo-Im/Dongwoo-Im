@@ -7,7 +7,7 @@
 - B.S. in `Systems Management Engineering` (= Industrial Engineering), `Sungkyunkwan University`
 
 ### Awards and Honors
-- `2024` `ETRI` [Fashion-how Season 4](https://fashion-how.org/) `Encouragement Award`
+- `2024` `ETRI` [Fashion-how Season 5](https://fashion-how.org/) `Encouragement Award`
 - `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `3rd Place`
 - `2023` `Hyundai Motor` [AI Competition 2023](https://www.apply.hyundai-ai-competition.com/) `Excellent Award (2nd ~ 4th Place)`
 - `2023` `ETRI` [Fashion-how Season 4](https://fashion-how.org/ETRI23/) `Encouragement Award (4th Place)`
