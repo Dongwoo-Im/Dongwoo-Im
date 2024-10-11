@@ -8,9 +8,9 @@
 
 ### Awards and Honors
 - `2024` `ETRI` [Fashion-how Season 5](https://fashion-how.org/) `Encouragement Award (4th ~ 6th Place)`
-- `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `3rd Place`
-- `2023` `Hyundai Motor` [AI Competition 2023](https://www.apply.hyundai-ai-competition.com/) `Excellent Award (2nd ~ 4th Place)`
-- `2023` `ETRI` [Fashion-how Season 4](https://fashion-how.org/ETRI23/) `Encouragement Award (4th Place)`
+- `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/challenge/28/info/overview) `3rd Place`
+- `2023` `Hyundai Motor` [AI Competition 2023](https://www.hyundai-ngv.com/information/schedule_view.do?bbsIdx=1693) `Excellent Award (2nd ~ 4th Place)`
+- `2023` `ETRI` Fashion-how Season 4 `Encouragement Award (4th Place)`
 - `2023` `Elice` [AI Edu Hackathon](https://ai-eduhackathon.elice.io/explore) Development of Educational Products based on Generative AI `Excellent Award (3rd Place)`
 - `2022` `Naver` [CLOVA AI RUSH 2022](https://campaign.naver.com/clova_airush/) Review Image Score Classificiation `Award (3rd Place)`
 - `2022` `Naver Connect` [Boostcamp AI Tech 3rd](https://boostcamp.connect.or.kr/program_ai.html) [A Clear Picture without Fine Dust](https://github.com/boostcampaitech3/final-project-level3-cv-17) `Impressive Project Top3`
