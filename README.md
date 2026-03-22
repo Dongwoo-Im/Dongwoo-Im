@@ -5,6 +5,7 @@
 
 ### About Me
 - B.S. in `Systems Management Engineering` (= Industrial Engineering), `Sungkyunkwan University`
+- Machine Vision Research Engineer at `Hyundai Steel` (2024.07 ~ Present)
 
 ### Awards and Honors
 - `2024` `ETRI` [Fashion-how Season 5](https://fashion-how.org/) `Encouragement Award (4th ~ 6th Place)`
@@ -19,6 +20,7 @@
 
 - Dacon Gold / Kaggle Expert
 
+    - `2026` `Dacon` `Deepfake Detection` Hecto AI Challenge `top 4%`
     - `2024` `Kaggle` USPTO - Explainable AI for Patent Professionals `top 13%` `Bronze Medal`
     - `2024` `Kaggle` NeurIPS 2024 - Predict New Medicines with BELKA `top 5%` `Silver Medal`
     - `2024` `Dacon` `Domain Specific QA` Handling Questions and Answers about Plastered `top 3%`
